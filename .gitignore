@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Project data
+*.pkl
+Records/
+
+# Personal notes
+Notes/
+brainstorm/
+
+# Personal images (AI generated, screenshots)
+Images/ChatGPT Image*
+Images/Gemini_Generated_Image*
+Images/printscreen_for_LLM*
+Images/key.jpg
+Images/display example.png
+Images/buttons.jpg
+Images/dial - Copy.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
