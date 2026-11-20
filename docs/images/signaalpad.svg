@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="720" height="260" fill="#f7f7f5"/>
+  <defs>
+    <marker id="pijl2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#33475b"/>
+    </marker>
+  </defs>
+  <!-- Stap 1: opname -->
+  <rect x="20" y="90" width="130" height="70" rx="10" fill="#fff4d6" stroke="#8a6d1a" stroke-width="2"/>
+  <text x="85" y="120" font-size="15" font-weight="bold" text-anchor="middle" fill="#4a3a0c">Ingang</text>
+  <text x="85" y="142" font-size="12" text-anchor="middle" fill="#4a3a0c">Windows-invoer</text>
+  <!-- Stap 2: sampler -->
+  <rect x="215" y="90" width="150" height="70" rx="10" fill="#dfe6ee" stroke="#33475b" stroke-width="2"/>
+  <text x="290" y="120" font-size="15" font-weight="bold" text-anchor="middle" fill="#1f2d3a">Sample-slot</text>
+  <text x="290" y="142" font-size="12" text-anchor="middle" fill="#1f2d3a">1 t/m 64</text>
+  <!-- Stap 3: MIDI-trigger -->
+  <rect x="430" y="20" width="130" height="60" rx="10" fill="#f3e5f5" stroke="#6a1b9a" stroke-width="2"/>
+  <text x="495" y="46" font-size="14" font-weight="bold" text-anchor="middle" fill="#3a0f52">MIDI-noot</text>
+  <text x="495" y="66" font-size="12" text-anchor="middle" fill="#3a0f52">(kanaal gefilterd)</text>
+  <!-- Stap 4: uitgang -->
+  <rect x="570" y="90" width="130" height="70" rx="10" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+  <text x="635" y="120" font-size="15" font-weight="bold" text-anchor="middle" fill="#1b4d1e">Uitgang</text>
+  <text x="635" y="142" font-size="12" text-anchor="middle" fill="#1b4d1e">Windows-uitvoer</text>
+  <!-- Pijlen -->
+  <line x1="150" y1="125" x2="215" y2="125" stroke="#33475b" stroke-width="3" marker-end="url(#pijl2)"/>
+  <line x1="365" y1="125" x2="570" y2="125" stroke="#33475b" stroke-width="3" marker-end="url(#pijl2)"/>
+  <line x1="495" y1="80" x2="495" y2="90" stroke="#6a1b9a" stroke-width="3" marker-end="url(#pijl2)"/>
+  <text x="380" y="110" font-size="12" fill="#33475b">afspelen</text>
+  <text x="20" y="200" font-size="12" fill="#555">1. REC: je neemt geluid op in de actieve slot.</text>
+  <text x="20" y="220" font-size="12" fill="#555">2. MIDI-noot: een noot speelt de slot af.</text>
+  <text x="20" y="240" font-size="12" fill="#555">3. Geluid gaat naar de uitgang (speakers of mixer).</text>
+</svg>

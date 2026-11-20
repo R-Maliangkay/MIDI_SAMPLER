@@ -37,7 +37,7 @@
   <widget class="QWidget" name="centralwidget">
    <property name="styleSheet">
     <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/asset_free.png');
+    background-image: url('Images/asset_free.png');
     background-repeat: no-repeat;
 	border: 1px solid transparent;
     background-position: center;
@@ -74,7 +74,7 @@ QLabel {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -94,7 +94,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -128,7 +128,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -148,7 +148,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -182,7 +182,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -202,7 +202,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -233,7 +233,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -253,7 +253,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -287,7 +287,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -307,7 +307,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -347,7 +347,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -367,7 +367,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -407,7 +407,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_vertical_empty.png');
+    background-image: url('Images/slider_vertical_empty.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -427,7 +427,7 @@ QSlider::handle:vertical {
 }
 
 QSlider::handle:vertical {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:vertical {
@@ -464,7 +464,7 @@ QSlider::add-page:vertical {
     </property>
     <property name="styleSheet">
      <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/slider_horizontal_empty.png');
+    background-image: url('Images/empty_horizontal_slider.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -484,7 +484,7 @@ QSlider::handle:horizontal {
 }
 
 QSlider::handle:horizontal {
-    border-image: url(C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/slider_handle.png);
+    border-image: url(Images/slider_handle.png);
 }
 
 QSlider::sub-page:horizontal {
@@ -538,13 +538,13 @@ QSlider::add-page:horizontal {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_large.png');
+    background-image: url('Images/button_large.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_large_pressed.png');
+    background-image: url('Images/button_large_pressed.png');
 }
 </string>
     </property>
@@ -564,13 +564,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_small.png');
+    background-image: url('Images/button_small.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_small_pressed.png');
+    background-image: url('Images/button_small_pressed.png');
 }
 </string>
     </property>
@@ -590,13 +590,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_square.png');
+    background-image: url('Images/button_square.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_square_pressed.png');
+    background-image: url('Images/button_square_pressed.png');
 }
 </string>
     </property>
@@ -616,13 +616,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_square.png');
+    background-image: url('Images/button_square.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_square_pressed.png');
+    background-image: url('Images/button_square_pressed.png');
 }
 </string>
     </property>
@@ -642,13 +642,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_square.png');
+    background-image: url('Images/button_square.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_square_pressed.png');
+    background-image: url('Images/button_square_pressed.png');
 }
 </string>
     </property>
@@ -668,13 +668,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_large.png');
+    background-image: url('Images/button_large.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_large_pressed.png');
+    background-image: url('Images/button_large_pressed.png');
 }
 </string>
     </property>
@@ -694,13 +694,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_0.png');
+    background-image: url('Images/button_0.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_0_pressed.png');
+    background-image: url('Images/button_0_pressed.png');
 }
 </string>
     </property>
@@ -720,13 +720,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_1.png');
+    background-image: url('Images/button_1.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_1_pressed.png');
+    background-image: url('Images/button_1_pressed.png');
 }
 </string>
     </property>
@@ -746,13 +746,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_2.png');
+    background-image: url('Images/button_2.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_2_pressed.png');
+    background-image: url('Images/button_2_pressed.png');
 }
 </string>
     </property>
@@ -772,13 +772,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_3.png');
+    background-image: url('Images/button_3.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_3_pressed.png');
+    background-image: url('Images/button_3_pressed.png');
 }
 </string>
     </property>
@@ -798,13 +798,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_4.png');
+    background-image: url('Images/button_4.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_4_pressed.png');
+    background-image: url('Images/button_4_pressed.png');
 }
 </string>
     </property>
@@ -824,13 +824,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_5.png');
+    background-image: url('Images/button_5.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_5_pressed.png');
+    background-image: url('Images/button_5_pressed.png');
 }
 </string>
     </property>
@@ -850,13 +850,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_6.png');
+    background-image: url('Images/button_6.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_6_pressed.png');
+    background-image: url('Images/button_6_pressed.png');
 }
 </string>
     </property>
@@ -876,13 +876,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_7.png');
+    background-image: url('Images/button_7.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_7_pressed.png');
+    background-image: url('Images/button_7_pressed.png');
 }
 </string>
     </property>
@@ -902,13 +902,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_8.png');
+    background-image: url('Images/button_8.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_8_pressed.png');
+    background-image: url('Images/button_8_pressed.png');
 }
 </string>
     </property>
@@ -928,13 +928,13 @@ QPushButton:pressed {
     <property name="styleSheet">
      <string notr="true">QPushButton {
 	border: none;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_9.png');
+    background-image: url('Images/button_9.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 QPushButton:pressed {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/button_9_pressed.png');
+    background-image: url('Images/button_9_pressed.png');
 }
 </string>
     </property>
@@ -1025,11 +1025,11 @@ QPushButton:pressed {
 }
 
 QCheckBox::indicator:unchecked {
-    image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/mute_toggle_off.png');
+    image: url('Images/mute_toggle_off.png');
 }
 
 QCheckBox::indicator:checked {
-    image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/Images/mute_toggle_on.png');
+    image: url('Images/mute_toggle_on.png');
 }
 </string>
     </property>
@@ -1064,7 +1064,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1103,7 +1103,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1142,7 +1142,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1181,7 +1181,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1220,7 +1220,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1259,7 +1259,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1298,7 +1298,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1337,7 +1337,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1376,7 +1376,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1415,7 +1415,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1454,7 +1454,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1493,7 +1493,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1532,7 +1532,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1571,7 +1571,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1610,7 +1610,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1649,7 +1649,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1694,7 +1694,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;
@@ -1733,7 +1733,7 @@ QCheckBox::indicator:checked {
     <property name="styleSheet">
      <string notr="true">QLabel {
 	background-color: transparent;
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/images/display_background.png');
+    background-image: url('Images/display_background.png');
     color: #00d4d4;
     font-family: 'DS-Digital';
 	font-size:16pt;

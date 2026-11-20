@@ -17,12 +17,12 @@
    <bool>true</bool>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-image: url(C:/Users/rickm/OneDrive/Documenten/Afbeeldingen/key.png);</string>
+   <string notr="true">background-image: url(Images/key.png);</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="styleSheet">
     <string notr="true">QWidget {
-    background-image: url('C:/Users/rickm/PycharmProjects/MIDI SAMPLER/asset_free.png');
+    background-image: url('Images/asset_free.png');
     background-repeat: no-repeat;
     background-position: center;
 }</string>

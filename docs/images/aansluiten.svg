@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="720" height="300" fill="#f7f7f5"/>
+  <!-- Computer -->
+  <rect x="20" y="90" width="170" height="120" rx="10" fill="#dfe6ee" stroke="#33475b" stroke-width="2"/>
+  <text x="105" y="140" font-size="18" font-weight="bold" text-anchor="middle" fill="#1f2d3a">Computer</text>
+  <text x="105" y="165" font-size="13" text-anchor="middle" fill="#1f2d3a">MIDI Sampler</text>
+  <!-- MIDI keyboard -->
+  <rect x="20" y="20" width="170" height="50" rx="8" fill="#fff" stroke="#33475b" stroke-width="2"/>
+  <text x="105" y="50" font-size="15" text-anchor="middle" fill="#1f2d3a">MIDI-keyboard</text>
+  <!-- Audio interface -->
+  <rect x="275" y="90" width="170" height="120" rx="10" fill="#fff4d6" stroke="#8a6d1a" stroke-width="2"/>
+  <text x="360" y="140" font-size="16" font-weight="bold" text-anchor="middle" fill="#4a3a0c">Audio-interface</text>
+  <text x="360" y="165" font-size="13" text-anchor="middle" fill="#4a3a0c">of USB-geluidskaart</text>
+  <!-- Analoog gear -->
+  <rect x="530" y="90" width="170" height="120" rx="10" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+  <text x="615" y="140" font-size="16" font-weight="bold" text-anchor="middle" fill="#1b4d1e">Analoog gear</text>
+  <text x="615" y="165" font-size="13" text-anchor="middle" fill="#1b4d1e">synth, drumbox, mixer</text>
+  <!-- Speakers -->
+  <rect x="530" y="230" width="170" height="50" rx="8" fill="#fff" stroke="#33475b" stroke-width="2"/>
+  <text x="615" y="260" font-size="15" text-anchor="middle" fill="#1f2d3a">Speakers / koptelefoon</text>
+  <!-- Connections -->
+  <line x1="105" y1="70" x2="105" y2="90" stroke="#33475b" stroke-width="3"/>
+  <text x="112" y="82" font-size="12" fill="#33475b">USB (MIDI)</text>
+  <line x1="190" y1="150" x2="275" y2="150" stroke="#8a6d1a" stroke-width="3"/>
+  <text x="200" y="142" font-size="12" fill="#8a6d1a">USB (audio)</text>
+  <line x1="530" y1="150" x2="445" y2="150" stroke="#2e7d32" stroke-width="3" marker-end="url(#pijl)"/>
+  <text x="452" y="142" font-size="12" fill="#2e7d32">line-out → line-in</text>
+  <line x1="360" y1="210" x2="360" y2="250" stroke="#8a6d1a" stroke-width="3"/>
+  <line x1="360" y1="250" x2="530" y2="255" stroke="#8a6d1a" stroke-width="3"/>
+  <text x="380" y="246" font-size="12" fill="#8a6d1a">uitgang naar speakers</text>
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="pijl" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#2e7d32"/>
+    </marker>
+  </defs>
+  <text x="20" y="290" font-size="12" fill="#555">Analoog gear sluit je aan op de audio-interface, niet direct op de computer.</text>
+</svg>

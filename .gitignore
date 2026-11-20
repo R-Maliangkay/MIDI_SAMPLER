@@ -12,6 +12,7 @@ env/
 build/
 dist/
 *.spec
+!MIDI_SAMPLER.spec
 
 # Project data
 *.pkl

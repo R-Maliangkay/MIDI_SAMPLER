@@ -15,11 +15,13 @@ A Python-based MIDI sampler application with a PyQt5 interface.
 
 ## Installation
 
-### Option 1: Download .exe (Recommended)
+### Option 1: Download and install (Recommended, Windows)
 
-1. Download the latest release
-2. Extract the file
-3. Run `MIDI Sampler.exe`
+1. Download `MIDI_Sampler_Setup.exe` from the latest release
+2. Double-click the file and follow the steps
+3. Start **MIDI Sampler** from the Start menu
+
+No Python or terminal needed. The installer does not need administrator rights.
 
 ### Option 2: From source code
 
